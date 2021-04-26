@@ -2,4 +2,4 @@
 
 Ian Miller 
 
-A Game full of items to collect, and monsters to slay.
+A Text adventure game 

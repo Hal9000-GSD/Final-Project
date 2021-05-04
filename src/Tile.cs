@@ -1,17 +1,17 @@
 using System;
 
-class MainClass {
+class Tile {
   int xpos;
   int ypos;
   string Name;
-  string Description
+  string Description;
   void Create(){
 
   }
-  string editName(){
+  void editName(){
 
   }
-  string editDescription(){
+  void editDescription(){
 
   }
   void Look(){

@@ -6,14 +6,18 @@ class Monster {
   int Health;
   int Power;
   string Name;
+  int DD;
+  int DR;
   
   void Create(){
 
   }
   public int Attack(){
-  
+    
+    return DD;
   }
   public int Hurt(){
-
+    
+    return DR;
   }
 }

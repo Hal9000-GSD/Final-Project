@@ -7,7 +7,8 @@ class Sign {
   void Create(){
 
   }
-  string Edit(){
+  void Edit(){
     
+
   }
 }

@@ -4,6 +4,7 @@ class Shop {
   int xpos;
   int ypos;
   string Name;
+  int GS;
   void Create(){
 
   }
@@ -12,5 +13,6 @@ class Shop {
   }
   int Buy(){
     
+    return GS;
   }
 }

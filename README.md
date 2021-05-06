@@ -5,5 +5,7 @@ Ian Miller
 A Text adventure game 
 
 +Tiles
+
 +Movement
+
 +Look
